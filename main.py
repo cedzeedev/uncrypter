@@ -1,4 +1,4 @@
-print("v3.0 | By CEDZEE")
+print("v3.0 | Uncrypter")
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 for x in range(0,100):
